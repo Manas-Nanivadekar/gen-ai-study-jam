@@ -499,10 +499,10 @@
     "User Email": "dambirrutuja@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d20066ef-551e-4a15-9f04-aaf472f50439",
     "Profile URL Status": "All Good",
-    "Prompt Design in Vertex AI Completion": 0,
-    "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
+    "Prompt Design in Vertex AI Completion": 1,
+    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
     "Gen AI Arcade Game Completion": 1,
-    "All 3 Pathways Completed - Yes or No": "No",
+    "All 3 Pathways Completed - Yes or No": "Yes",
     "Campaign Code Redemption Status": "Yes"
   },
   {
